@@ -1,0 +1,59 @@
+INFO:     Will watch for changes in these directories: ['E:\\Youtube RAG\\backend']
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [11780] using WatchFiles
+INFO:     Started server process [29096]
+INFO:     Waiting for application startup.
+2026-11-22 15:21:44,817 | INFO     | videomind | Starting VideoMind API
+2026-11-22 15:21:44,817 | INFO     | videomind | Chat model: llama-3.3-70b-versatile
+2026-11-22 15:21:44,817 | INFO     | videomind | Embedding model: sentence-transformers/all-MiniLM-L6-v2
+2026-11-22 15:21:44,817 | WARNING  | videomind | Missing service configuration: supabase, groq
+INFO:     Application startup complete.
+INFO:     127.0.0.1:65384 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49833 - "OPTIONS /api/video/process HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49833 - "POST /api/video/process HTTP/1.1" 503 Service Unavailable
+INFO:     127.0.0.1:49893 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49982 - "POST /api/video/process HTTP/1.1" 503 Service Unavailable
+INFO:     127.0.0.1:55319 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55319 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55319 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55561 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55576 - "OPTIONS /api/video/process HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55576 - "POST /api/video/process HTTP/1.1" 503 Service Unavailable
+INFO:     127.0.0.1:57292 - "OPTIONS /api/video/process HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57292 - "POST /api/video/process HTTP/1.1" 503 Service Unavailable
+INFO:     127.0.0.1:57300 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57359 - "POST /api/video/process HTTP/1.1" 503 Service Unavailable
+INFO:     127.0.0.1:57545 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57595 - "POST /api/video/process HTTP/1.1" 503 Service Unavailable
+INFO:     127.0.0.1:57717 - "OPTIONS /api/video/process HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57717 - "POST /api/video/process HTTP/1.1" 503 Service Unavailable
+INFO:     127.0.0.1:57868 - "POST /api/video/process HTTP/1.1" 503 Service Unavailable
+INFO:     127.0.0.1:57869 - "POST /api/video/process HTTP/1.1" 503 Service Unavailable
+INFO:     127.0.0.1:57869 - "POST /api/video/process HTTP/1.1" 503 Service Unavailable
+INFO:     127.0.0.1:57869 - "POST /api/video/process HTTP/1.1" 503 Service Unavailable
+INFO:     127.0.0.1:57869 - "POST /api/video/process HTTP/1.1" 503 Service Unavailable
+INFO:     127.0.0.1:57869 - "POST /api/video/process HTTP/1.1" 503 Service Unavailable
+INFO:     127.0.0.1:57954 - "POST /api/video/process HTTP/1.1" 503 Service Unavailable
+INFO:     127.0.0.1:57954 - "POST /api/video/process HTTP/1.1" 503 Service Unavailable
+INFO:     127.0.0.1:57954 - "POST /api/video/process HTTP/1.1" 503 Service Unavailable
+INFO:     127.0.0.1:57954 - "POST /api/video/process HTTP/1.1" 503 Service Unavailable
+INFO:     127.0.0.1:57954 - "POST /api/video/process HTTP/1.1" 503 Service Unavailable
+INFO:     127.0.0.1:57954 - "POST /api/video/process HTTP/1.1" 503 Service Unavailable
+INFO:     127.0.0.1:57954 - "POST /api/video/process HTTP/1.1" 503 Service Unavailable
+INFO:     127.0.0.1:57954 - "POST /api/video/process HTTP/1.1" 503 Service Unavailable
+INFO:     127.0.0.1:57954 - "POST /api/video/process HTTP/1.1" 503 Service Unavailable
+INFO:     127.0.0.1:57954 - "POST /api/video/process HTTP/1.1" 503 Service Unavailable
+INFO:     127.0.0.1:57954 - "POST /api/video/process HTTP/1.1" 503 Service Unavailable
+INFO:     127.0.0.1:58003 - "POST /api/video/process HTTP/1.1" 503 Service Unavailable
+INFO:     127.0.0.1:58099 - "POST /api/video/process HTTP/1.1" 503 Service Unavailable
+INFO:     127.0.0.1:58150 - "OPTIONS /api/video/process HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58150 - "POST /api/video/process HTTP/1.1" 503 Service Unavailable
+WARNING:  WatchFiles detected changes in 'check_setup.py'. Reloading...
+ INFO:     127.0.0.1:59677 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59677 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:59736 - "OPTIONS /api/video/process HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59736 - "POST /api/video/process HTTP/1.1" 503 Service Unavailable
+INFO:     127.0.0.1:59736 - "POST /api/video/process HTTP/1.1" 503 Service Unavailable
+INFO:     127.0.0.1:59736 - "POST /api/video/process HTTP/1.1" 503 Service Unavailable
+INFO:     127.0.0.1:60742 - "OPTIONS /api/video/process HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60742 - "POST /api/video/process HTTP/1.1" 503 Service Unavailable
