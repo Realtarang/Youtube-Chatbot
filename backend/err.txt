@@ -1,0 +1,1 @@
+Supabase error 401 on POST /rpc/match_transcript_chunks: {"code":"42501","details":null,"hint":"Grant the required privileges to the current role with: GRANT SELECT ON public.transcript_chunks TO anon;","message":"permission denied for table transcript_chunks"}

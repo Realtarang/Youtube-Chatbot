@@ -1,0 +1,1 @@
+"""VideoMind backend application package."""
